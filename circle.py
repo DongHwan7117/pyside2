@@ -1,8 +1,6 @@
 from __future__ import annotations
 from random import *
 import math
-from point import*
-from line import*
 
 class Circle2D():
     def __init__(self, center:Point2D, radius):

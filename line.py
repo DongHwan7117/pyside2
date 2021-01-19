@@ -1,6 +1,4 @@
-from __future__ import annotations
 from random import *
-import math
 from point import*
 
 class Line2D:

@@ -1,5 +1,4 @@
 from __future__ import annotations
-from random import *
 import math
 
 class Point2D() :
